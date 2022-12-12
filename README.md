@@ -1,6 +1,7 @@
 # graph-calculator
 In a Linux environment use make to get the executable.
 The executable ./gcalc is provided, run it after which you will be presented with a command line.
+Further detail provided about the design on the project are provided in the design.pdf file.
 
 1) Directed graphs are defined by set literals in the form:  { <vertex1>, <vertex2>, <vertex3> |  (<vertex1>,<vertex3>),  (<vertex3>, <vertex1>) }
 2) To assign a graph to a variable you can enter: "g1 = <graph literal>" or "g1 = g2".
